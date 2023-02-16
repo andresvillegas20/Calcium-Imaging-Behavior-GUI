@@ -1,2 +1,0 @@
-Here is some sample data to work with. Neural data is in a saved pickle file to read into Pandas. I also provide a synced video to the neural recordings.
-Not that the video (mp4) was collected at 60 hz wherease the neural recordings was at 20 hz, the gui will downsample the video to get the corresponding frame of the video.
